@@ -1,2 +1,2 @@
 # ELMO_CNN
-A simple program combine ELMO and CNN for dog and cat classification
+A simple program combines ELMO and CNN for dog and cat classification
